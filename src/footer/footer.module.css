@@ -1,0 +1,13 @@
+.footer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 10px 0px 10px 0px;
+}
+
+.footer img{
+    width: 40px;
+}
+
